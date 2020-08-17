@@ -4,6 +4,7 @@
 
 ## Game introduction
 * Use the arrow keys to operate the ship
+* Use the space bar to fire a bullet
 * When the alien hit the ship or reach the bottom —— GAME OVER
 * You have 3 ships in one round
 * If the entire alien fleet is destroyed, start a new level
